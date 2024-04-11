@@ -32,6 +32,7 @@
 
 <div>
   <p class="intro-text">Ever want to use a new Google Font, but not sure which one to use? This random font generator will generate a random font for you using the Google Font API. Just click the 'Get Random Font' button below, and it will generate a new font for you on the screen! Click the clipboard icon to copy the code and just paste it where you want to use it.</p>
+  <p class="intro-text">Please note, some fonts may not work as expected or there may be errors. Use at your own discretion.</p>
   <h2>Your font: {randomFont.family}</h2>
   <p>Font sample:</p>
   <p class="sample-text">The quick brown fox jumps over the lazy dog.</p>
@@ -133,6 +134,6 @@
     background-color: #1376b4;
   }
   .intro-text {
-    margin: 0 0 40px 0; 
+    margin: 0 0 20px 0; 
   }
 </style>
