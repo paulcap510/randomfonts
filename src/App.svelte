@@ -53,7 +53,7 @@
 
     h1 {
         font-size: 2rem;
-		margin-top: 2rem;
+		    margin-top: 2rem;
         margin-bottom: 2rem;
         color: #1DA1F2; 
     }
